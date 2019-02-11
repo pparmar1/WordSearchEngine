@@ -1,5 +1,3 @@
-Name:		Pooja Parmar
-B-Number:	B00709560
-Email:		pparmar1@binghamton.edu
-
-
+Designed a dynamic single-page web application that accesses remote web services directly from the browser using axios and searches for non-noise words from a set of documents stored in a MongoDB database
+React is used for building using interface
+RESTlet client and Express framework are used for sending GET/POST requests to the documents database
